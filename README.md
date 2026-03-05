@@ -1,4 +1,4 @@
-# Global Sales Portfolio Analysis: Identifying High-Performing Markets and Product Segments
+# Revenue Optimization & Regional Growth Strategy: Driving a Projected $4.5M Revenue Uplift
 
 ## Introduction
 This project analyzes a global sales dataset [sourced from GitHub Gist](https://gist.github.com/denandreychuk/b9aa812f10e4b60368cff69c6384a210) containing country-level performance records across multiple regions, product categories, and sales channels.  
