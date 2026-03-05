@@ -7,7 +7,7 @@ The objective is to understand how **revenue and profitability vary across marke
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Python**: Data wrangling and analysis  
 - **Pandas & NumPy**: Data manipulation and aggregation  
 - **Matplotlib & Seaborn**: Visualization of trends and concentration risks  
@@ -16,7 +16,7 @@ The objective is to understand how **revenue and profitability vary across marke
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 1. **Data Exploration**  
    - Loaded and cleaned 100 records of global sales data.  
    - Reviewed summary statistics for units sold, pricing, revenue, and profit.  
@@ -38,7 +38,7 @@ The objective is to understand how **revenue and profitability vary across marke
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 - **Regional Concentration:** Sub-Saharan Africa and Europe together account for **over 50% of total revenue**.  
 - **Product Categories:** Cosmetics, Office Supplies, and Household goods drive **~70% of revenue**, while Fruits contribute almost nothing.  
 - **Revenue Drivers:**  
@@ -61,5 +61,6 @@ The objective is to understand how **revenue and profitability vary across marke
 ---
 
 ## Next Steps
-- Extend analysis to **profitability by product-region combinations**.  
-- Incorporate **time-series trends** to evaluate sustainability of high-performing segments.  
+- Incorporate **time-series data** to identify seasonal demand peaks across national markets.
+- Correlate sales with national GDP data to determine true market share and untapped potential.
+
